@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> FORMULARIO</h1>
+    <h1> FORMULARIO d12</h1>
     <form action="store.php" method="POST">
         <label for="tarea">Nombre Tarea</label> <br>
         <input type="text" name="tarea">
